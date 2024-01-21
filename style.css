@@ -1,0 +1,37 @@
+.update-control{
+    display:none;
+}
+body {
+    background: rgba(48, 64, 64, 1.0); 
+    background: -webkit-radial-gradient(center, rgba(48, 64, 64, 1.0) 0%, rgba(0, 0, 0, 1.0) 100%);
+    background: -moz-radial-gradient(center, rgba(48, 64, 64, 1.0) 0%, rgba(0, 0, 0, 1.0) 100%);
+    background: radial-gradient(ellipse at center, rgba(48, 64, 64, 1.0) 0%, rgba(0, 0, 0, 1.0) 100%);
+    font-family: 'Shadows Into Light', cursive;
+    min-height: 100vh;
+  }
+  
+span{
+    color:#c9d1c8;
+
+}
+.button {
+    color: #04202c;
+    background-color: #c9d1c8;
+  } 
+.app {
+    width: 95%;
+    text-align: center;
+    zoom:200%;
+  }
+h1{
+    color:#c9d1c8;
+  }
+  
+.input-header {
+    display: flex;
+    align-items: center;
+    color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
